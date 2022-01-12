@@ -1,0 +1,86 @@
+[
+  {
+    "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/CreateVm-MicrosoftWindowsServer.WindowsServer-201-20220112104124/operations/2E46C399A4168725",
+    "operationId": "2E46C399A4168725",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-12T10:47:56.0169667Z",
+      "duration": "PT4M54.9064569S",
+      "trackingId": "be088846-533e-4faa-ba3b-f8d4df67a278",
+      "serviceRequestId": "293eef60-a6be-4918-90bf-016126c45dfd",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/Microsoft.CustomScriptExtension",
+        "resourceType": "Microsoft.Resources/deployments",
+        "resourceName": "Microsoft.CustomScriptExtension"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/CreateVm-MicrosoftWindowsServer.WindowsServer-201-20220112104124/operations/74F56B2CF406B2DE",
+    "operationId": "74F56B2CF406B2DE",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-12T10:43:57.6424078Z",
+      "duration": "PT56.531898S",
+      "trackingId": "d7b670df-1755-4c14-87fc-c80483600182",
+      "serviceRequestId": "591fafcf-96ad-4b28-b4a2-bcc9c0440645",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Compute/virtualMachines/WEB-SRV1",
+        "resourceType": "Microsoft.Compute/virtualMachines",
+        "resourceName": "WEB-SRV1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/CreateVm-MicrosoftWindowsServer.WindowsServer-201-20220112104124/operations/61398FD362D76086",
+    "operationId": "61398FD362D76086",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-12T10:43:05.5211381Z",
+      "duration": "PT4.4106283S",
+      "trackingId": "692113a3-1522-41f2-8326-212e240c8898",
+      "serviceRequestId": "f3b95099-da78-4a6b-8357-be8dbc57541a",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Network/networkInterfaces/web-srv1307",
+        "resourceType": "Microsoft.Network/networkInterfaces",
+        "resourceName": "web-srv1307"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/CreateVm-MicrosoftWindowsServer.WindowsServer-201-20220112104124/operations/4562307D4DEFBACE",
+    "operationId": "4562307D4DEFBACE",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-12T10:43:04.9634652Z",
+      "duration": "PT3.8529554S",
+      "trackingId": "43d89e0d-5fae-477f-badc-111f4d487584",
+      "serviceRequestId": "0a7e2149-28d1-4d20-ab73-befaed1fb619",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Network/networkSecurityGroups/WEB-SRV1-nsg",
+        "resourceType": "Microsoft.Network/networkSecurityGroups",
+        "resourceName": "WEB-SRV1-nsg"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/cafb7f74-6cdb-4c81-bdcd-420467f94ba3/resourceGroups/Contoso_UK_South/providers/Microsoft.Resources/deployments/CreateVm-MicrosoftWindowsServer.WindowsServer-201-20220112104124/operations/08585596227052067501",
+    "operationId": "08585596227052067501",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-12T10:47:56.1252666Z",
+      "duration": "PT4M55.0147568S",
+      "trackingId": "4f51a731-5814-46bf-a4de-d1bcb51c30b4",
+      "statusCode": "OK"
+    }
+  }
+]
